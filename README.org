@@ -1,0 +1,23 @@
+* Workshop on Glass Modelling via Neural Networks and Data-Driven Glass Science
+
+*Workshop dates*: 09/09 to 12/09.
+*Location*: Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin, Germany
+
+** Slides and Jupyter notebooks
+
+The slides and Jupyter notebooks are in the ~resources~ folder.
+
+** Study material
+
+1. Karpathy, A. Neural Networks: Zero to Hero. https://karpathy.ai/zero-to-hero.html
+
+2. Deisenroth, M.P., Faisal, A.A., and Ong, C.S. (2021). Mathematics for Machine Learning. https://mml-book.com
+
+3. James, G., Witten, D., Hastie, T., Tibshirani, R., and Taylor, J. (2023). An Introduction to Statistical Learning: with Applications in Python. https://www.statlearning.com/
+
+4. Hastie, T., Tibshirani, R., and Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition 2nd ed. 2009, Corr. 9th printing 2017 Edição. (Springer). https://hastie.su.domains/ElemStatLearn/
+
+5. Goodfellow, I., Bengio, Y., Courville, A., and Bengio, Y. (2016). Deep learning (MIT press Cambridge). https://www.deeplearningbook.org/
+
+6. Bishop, C.M. (2023). Deep Learning: Foundations and Concepts by Chris Bishop - Issuu. https://issuu.com/cmb321/docs/deep_learning_ebook. https://issuu.com/cmb321/docs/deep_learning_ebook
+
