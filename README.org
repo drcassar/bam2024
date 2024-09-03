@@ -21,3 +21,5 @@ The slides and Jupyter notebooks are in the ~resources~ folder.
 5. Goodfellow, I., Bengio, Y., Courville, A., and Bengio, Y. (2016). /Deep learning (MIT press Cambridge)/. https://www.deeplearningbook.org/
 
 6. Bishop, C.M. (2023). /Deep Learning: Foundations and Concepts  https://issuu.com/cmb321/docs/deep_learning_ebook
+
+7. S. Raschka, Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning, (2020). https://doi.org/10.48550/arXiv.1811.12808.
