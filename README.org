@@ -23,3 +23,9 @@ The slides and Jupyter notebooks are in the ~resources~ folder.
 6. Bishop, C.M. (2023). /Deep Learning: Foundations and Concepts  https://issuu.com/cmb321/docs/deep_learning_ebook
 
 7. S. Raschka, Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning, (2020). https://doi.org/10.48550/arXiv.1811.12808.
+
+** Acknowledgements
+
++ Bundesanstalt für Materialforschung und -prüfung (BAM)
++ INCT Materials Informatics
++ National Council for Scientific and Technological Development (CNPq)
