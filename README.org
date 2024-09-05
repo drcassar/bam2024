@@ -1,12 +1,20 @@
 * Workshop on Glass Modelling via Neural Networks and Data-Driven Glass Science
 
+*Author*: Daniel R. Cassar.
+
 *Workshop dates*: 09/09 to 12/09.
 
-*Location*: Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin, Germany
+*Location*: Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin, Germany.
 
 ** Slides and Jupyter notebooks
 
 The slides and Jupyter notebooks are in the ~resources~ folder.
+
+** References for GlassNet and ViscNet
+
+1. D.R. Cassar, GlassNet: A multitask deep neural network for predicting many glass properties, Ceramics International 49 (2023) 36013–36024. https://doi.org/10.1016/j.ceramint.2023.08.281.
+
+2. D.R. Cassar, ViscNet: Neural network for predicting the fragility index and the temperature-dependency of viscosity, Acta Materialia 206 (2021) 116602. https://doi.org/10.1016/j.actamat.2020.116602.
 
 ** Study material
 
